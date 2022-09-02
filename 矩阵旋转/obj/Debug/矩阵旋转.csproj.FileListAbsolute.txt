@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\bin\Debug\矩阵旋转.exe
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\bin\Debug\矩阵旋转.pdb
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.Form1.resources
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.Properties.Resources.resources
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.exe
+C:\Users\ASUS\Desktop\摄影测量实习\B 建筑物立面控制测量\矩阵旋转\矩阵旋转\obj\Debug\矩阵旋转.pdb
